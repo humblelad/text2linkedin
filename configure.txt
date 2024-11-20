@@ -1,0 +1,2 @@
+img=/path/text2linkedin/hello_world.png
+txt="This is a sample post from text2linkedin \n Thanks."
